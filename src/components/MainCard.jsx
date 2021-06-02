@@ -4,7 +4,7 @@ import Image_null from './img/Image_not_2.png'
 
 const MainCard = ({title, urlToImage, author,content,description,publishedAt}) =>(
 
-    <div className="card text-uppercase text-white  main_Card  p-2 m-2" title={title}>
+    <div className="card text-uppercase text-white bg-dark main_Card  p-2 m-2" title={title}>
         <div className="main_image">
             {//Some news may have the "urlToImage" attribute set to null in these cases we assign the image "Image_null" by default 
                 urlToImage?(
