@@ -1,0 +1,25 @@
+.secondary_Card {
+    width: auto;
+    /*height: 350px;*/
+    overflow: hidden;
+}
+
+.secondary_image  {
+    width: 380px;
+    height: 230px;
+    overflow:hidden
+}
+
+.secondary_image:hover{
+    opacity: 80%;
+}
+
+.img-news{
+    margin-top: auto;
+    margin-bottom: auto;
+    min-height: 230px;
+}
+
+.minTxt{
+    font-size: 12px;
+}

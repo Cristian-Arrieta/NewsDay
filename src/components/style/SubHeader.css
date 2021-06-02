@@ -1,0 +1,59 @@
+.subHeader  {
+    width: auto;
+    height: 75px;
+    /*background-color: #004378;*/
+    
+    color: white;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+.subHeader img{
+    height: 75px;
+}
+
+.subHeader h2 {display: inline;}
+/*
+.business{
+    background: #0575E6;  
+background: -webkit-linear-gradient(to top, #021B79, #0575E6);  
+background: linear-gradient(to top, #021B79, #0575E6); 
+
+}
+.health{
+    background: #52c234;  
+    background: -webkit-linear-gradient(to top, #061700, #52c234);  
+    background: linear-gradient(to top, #061700, #52c234); 
+    }
+.entertainment{
+    background: #ad5389; 
+background: -webkit-linear-gradient(to top, #3c1053, #ad5389);  
+background: linear-gradient(to top, #3c1053, #ad5389); 
+
+}
+.general{
+    background: #870000; 
+    background: -webkit-linear-gradient(to top, #190A05, #870000); 
+    background: linear-gradient(to top, #190A05, #870000);
+    
+}
+.science{
+    background: #2c3e50; 
+    background: -webkit-linear-gradient(to bottom, #3498db, #2c3e50); 
+    background: linear-gradient(to bottom, #3498db, #2c3e50); 
+    
+
+}
+.sport{
+    background: #fe8c00; 
+    background: -webkit-linear-gradient(to top, #f83600, #fe8c00); 
+    background: linear-gradient(to top, #f83600, #fe8c00);
+    
+}
+
+.technology{
+background: #0F2027;  
+background: -webkit-linear-gradient(to bottom, #2C5364, #203A43, #0F2027);  
+background: linear-gradient(to bottom, #2C5364, #203A43, #0F2027); 
+}
+*/

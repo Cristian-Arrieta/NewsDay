@@ -1,0 +1,33 @@
+.main_Card {
+    width: auto;
+    height: 600px;
+    text-align: center; 
+    overflow: hidden;
+    background-color: #004378;
+}
+
+.main_Card h5{
+    font-size: 150%;
+}
+
+
+.main_image  {
+    
+    min-width: 500px;
+    height: 355px;
+    overflow:hidden;    
+    display:block;
+    
+    
+}
+
+.img-main-news{
+    margin-top: auto;
+    margin-bottom: auto;
+    min-height: 355px;
+    min-width: 550px;
+}
+
+.main_image:hover{
+    opacity: 80%;
+}

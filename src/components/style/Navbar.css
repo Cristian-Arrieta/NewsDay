@@ -1,0 +1,15 @@
+/*
+  .navbar
+  {
+    
+    background: #BBD2C5;   fallback for old browsers 
+    background: -webkit-linear-gradient(to top, #292E49, #536976, #BBD2C5);  
+    background: linear-gradient(to top, #292E49, #536976, #BBD2C5);
+
+     color: white;
+    
+  }*/
+  .Ic{
+    width: auto;
+    height: 60px;
+  }
