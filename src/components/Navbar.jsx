@@ -35,7 +35,7 @@ const Navbar = () =>{
       }
     }
   
-    let x=['navbar navbar-expand-lg bg-dark shadow'];
+    let x=['navbar navbar-expand-lg navbar-dark bg-dark shadow'];
     if(scrolled){
       x.push('fixed-top');
     }
